@@ -1,0 +1,18 @@
+{
+  "name": "FT8 Waterfall Tracker",
+  "short_name": "FT8 Tracker",
+  "description": "Overlay/tracker live per FT8 su Twitch: mappa DXCC colorabile, bingo, boss fight, obiettivi di sessione.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0d0e",
+  "theme_color": "#3dffa0",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
